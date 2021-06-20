@@ -7,5 +7,6 @@ int main()
     printf("%d\n", num);
     num = 8;
     printf("%d", num);
+    
     return 0;
 }

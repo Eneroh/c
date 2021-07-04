@@ -15,3 +15,5 @@ int main()
 
     return 0;
 }
+
+# If user enters 1 word for celebrity name instead of two. It will wait for second input

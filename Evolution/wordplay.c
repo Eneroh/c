@@ -4,6 +4,8 @@
 
 int main() {
 
+// need this because there is no strrev using string.h for linux for some reason o.o
+  
   char *strrev(char *str)
   {
       char *p1, *p2;

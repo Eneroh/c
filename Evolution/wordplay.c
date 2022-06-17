@@ -38,7 +38,7 @@ int main() {
         printf("%s %s", sWord, fWord);
     }
     else if(*choice == 'r'){
-        printf("%s %s", strrev(fWord), strrev(sWord));
+        printf("%s %s", strrev(sWord), strrev(fWord));
     }
 
     return 0;

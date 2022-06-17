@@ -21,7 +21,7 @@ int main() {
       return str;
   }
 
-    char fWord[40], sWord[40], choice[5], rev[20];
+    char fWord[40], sWord[40], choice[5];
     printf("Enter your first word: ");
     scanf("%s", &fWord);
     //fgets(fWord, 40, stdin); trying fgets but it leaves a new line between strings

@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-   int main() {
+
+// formula temporarily busted, check back later aha
+
+int main() {
    int n = 0;
    float p=0.15, f=(float) n, x=0;
    int i=p*100;

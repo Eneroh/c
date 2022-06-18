@@ -5,9 +5,8 @@
 // formula fixed, give it a shot will ya?
 
 int main() {
-   int n=0, o=0;
-   float p=0.15, f=(float) n, x=0;
-   int i=p*100;
+   float p=0.15, f=0, x=0;
+   int i=p*100, n=0, o=0;
    
    printf("Insert value is 15%% of x");
    printf("\nEnter value: ");
